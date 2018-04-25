@@ -1,0 +1,17 @@
+#footer
+{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 12px;
+    text-shadow: 0 1px 0 #cccccc;
+    margin-top:100px;
+}
+#footer:hover a
+{
+    color: #42b983;
+}
+#footer a
+{
+    text-decoration: none;
+    color: inherit
+}
